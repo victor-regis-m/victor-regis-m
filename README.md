@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victor-regis-m
-- 👀 I’m interested in learning about game development
-- 🌱 I’m currently learning C#, C++ and Bash
-- 💞️ I’m looking to collaborate on interesting game projects
+- 👀 I’m interested in learning about web development and data engineering, also about game dev for fun
+- 🌱 I’m currently learning Python, C#, C++ and Bash
+- 💞️ I’m looking to collaborate on interesting web dev and game projects
 - 📫 How to reach me: https://www.linkedin.com/in/victor-r%C3%A9gis-581ba039/
 
 <!---
